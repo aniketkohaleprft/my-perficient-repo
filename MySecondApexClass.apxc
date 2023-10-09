@@ -1,0 +1,6 @@
+public class MyFirstApexClass{
+
+
+public Integer i = 0;
+
+}
