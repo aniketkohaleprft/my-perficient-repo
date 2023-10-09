@@ -2,4 +2,6 @@ public class OtherDeveloperApex {
 
 public integer i = 0;
 
+public integer J = 0;
+
 }
